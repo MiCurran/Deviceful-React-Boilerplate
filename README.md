@@ -12,8 +12,10 @@ https://github.com/MiCurran/Deviceful-React.git
 ``` cd deviceful-react-boilerplate ```  
 3. install dependencies  
 ```npm install```  
-4. Add your screenshot (optional) to...  
+4. Add your screenshot to...  
 ```public/deviceful```  
 5. test it out  
 ```npm start```  
 
+## Find out more...  
+From my blog write up [How to Create Interactive Displays for your Portfolio Projects Using React and Deviceful](https://micurran.hashnode.dev/create-interactive-displays-for-your-projects-with-react)
