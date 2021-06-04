@@ -1,5 +1,5 @@
 # Deviceful React Starter
-![code size](https://img.shields.io/github/languages/code-size/micurran/deviceful-react) ![last commit](https://img.shields.io/github/last-commit/micurran/deviceful-react) ![version](https://img.shields.io/github/package-json/v/micurran/deviceful-react) ![follow-me](https://img.shields.io/twitter/follow/mcurran386?style=social)
+![code size](https://img.shields.io/github/languages/code-size/micurran/Deviceful-React-Boilerplate) ![last commit](https://img.shields.io/github/last-commit/micurran/Deviceful-React-Boilerplate) ![version](https://img.shields.io/github/package-json/v/micurran/Deviceful-React-Boilerplate) ![follow-me](https://img.shields.io/twitter/follow/mcurran386?style=social)
 
 ![Deviceful React](./public/deviceful-react.png)
 
