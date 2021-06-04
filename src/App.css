@@ -1,0 +1,20 @@
+.laptop {
+  height: 250px;
+}
+
+@media (min-width: 640px) {
+  .laptop {
+    height: 400px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .laptop {
+    height: 600px;
+  }
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
